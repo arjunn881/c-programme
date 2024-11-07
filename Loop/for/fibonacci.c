@@ -1,5 +1,8 @@
+// WAP in c to print fibbonacci series using for loop;
+
 #include<stdio.h>
 #include<conio.h>
+
 
 int main(){
     int n, n1=0, n2=1, next;
