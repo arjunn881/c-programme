@@ -5,7 +5,7 @@
 int main(){
     int gms,kgm,gm;
 
-    printf("enter paisa : \n");
+    printf("enter grams : \n");
     scanf("%d", &gms);
 
     kgm = gms/1000;
